@@ -1,0 +1,36 @@
+{
+    "name": "word-theme",
+    "displayName": "Word",
+    "description": "A dark theme based on Microsoft Word 5.5 for DOS",
+    "version": "1.0.0",
+    "publisher": "coastermcgee",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "icon": "images/icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "license": "MIT",
+	"homepage": "https://github.com/coastermcgee/vscode-word-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/coastermcgee/vscode-word-theme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/coastermcgee/vscode-word-theme/issues"
+	},
+    "galleryBanner": {
+        "color": "#0000aa",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Word",
+                "uiTheme": "vs-dark",
+                "path": "./themes/word-color-theme.json"
+            }
+        ]
+    }
+}
