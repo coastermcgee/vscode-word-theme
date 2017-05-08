@@ -2,7 +2,7 @@
     "name": "word-theme",
     "displayName": "Word",
     "description": "A dark theme based on Microsoft Word 5.5 for DOS",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "coastermcgee",
     "engines": {
         "vscode": "^1.12.0"
