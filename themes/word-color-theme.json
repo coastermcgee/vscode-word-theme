@@ -87,7 +87,9 @@
 
 		// Workbench: Title
 		"titleBar.activeBackground": "#aaaaaa",
+		"titleBar.activeForeground": "#000000",
 		"titleBar.inactiveBackground": "#aaaaaa",
+		"titleBar.inactiveForeground": "#000000",
 
 		// Workbench: Editors
 		"editorGroup.background": "#aaaaaa",
