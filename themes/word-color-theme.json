@@ -47,9 +47,9 @@
 		"editor.selectionBackground": "#aaaaaa",
 		"editor.selectionHighlightBackground": "#5e5e5e",
 		"editor.inactiveSelectionBackground": "#5e5e5e",
-        "editor.findMatchBackground": "#aa00aa",
-        "editor.findMatchHighlightBackground": "#720072",
-		"editorWidget.background": "#aa00aa",
+        	"editor.findMatchBackground": "#aa00aa",
+        	"editor.findMatchHighlightBackground": "#720072",
+		"editorWidget.background": "#aa0000",
 		"editor.lineHighlightBackground": "#ffffff44",
 		"editorCursor.foreground": "#ffffff",
 		"editorWhitespace.foreground": "#ffffff26",
@@ -64,7 +64,7 @@
 		"editorSuggestWidget.highlightForeground": "#ffff55",
 
 		"peekViewTitle.background": "#5555ff",
-		"peekViewEditor.background": "#00aa00",
+		"peekViewEditor.background": "#0000aa",
 		"peekViewResult.background": "#aaaaaa",
 		"peekViewResult.lineForeground": "#000000",
 		"peekViewResult.selectionBackground": "#aa00aa",
@@ -109,7 +109,7 @@
 		"activityBarBadge.foreground": "#c1c1c1",
 
 		// Workbench: Panel
-		"panel.background": "#00aa00",
+		"panel.background": "#aa00aa",
 		"panelTitle.activeForeground": "#ffffff",
 		"panelTitle.inactiveForeground": "#000000",
 		"panelTitle.activeBorder": "#ffffff",
@@ -132,7 +132,7 @@
 
 		// Workbench: Notifications
 		"notification.foreground": "#ffffff",
-		"notification.background": "#aa0000",
+		"notification.background": "#aaaaaa",
 
 		// Workbench: Quick Open
 		"pickerGroup.foreground": "#aa00aa",
