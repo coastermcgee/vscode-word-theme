@@ -8,3 +8,7 @@ All notable changes to the "word-55" extension will be documented in this file.
 ## [1.1.0]
 - Update active foreground color for OSX titlebar
 - Update colors for panel, widget, notifications, and peek view editor to increase legibility
+
+## [1.2.0]
+- Implement colors added during the VS Code 1.13 update
+- Improves legibility
