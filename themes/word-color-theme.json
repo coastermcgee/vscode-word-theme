@@ -19,6 +19,7 @@
 		"inputValidation.warningBorder": "#bababa",
 		"inputValidation.errorBackground": "#aa0000",
 		"inputValidation.errorBorder": "#ff5555",
+		"input.placeholderForeground": "#696969",
 
 		"dropdown.background": "#aaaaaa",
 		"dropdown.foreground": "#000000",
@@ -124,6 +125,7 @@
 		"statusBar.background": "#00aaaa",
 		"statusBar.noFolderBackground": "#00aaaa",
 		"statusBar.debuggingBackground": "#aa0000",
+		"statusBar.debuggingForeground": "#aaa",
 
 		// Workbench: Debug
 		"debugToolBar.background": "#aa0000",
@@ -154,7 +156,16 @@
 		"terminal.ansiBrightMagenta": "#ff55ff",
 		"terminal.ansiBrightWhite": "#ffffff",
 		"terminal.ansiBrightYellow": "#ffff55",
-		"terminal.ansiBrightRed": "#ff5555"
+		"terminal.ansiBrightRed": "#ff5555",
+		"terminal.background": "#000000",
+		
+		// Extensions
+        	"extensionButton.prominentBackground": "#696969",
+        	"extensionButton.prominentHoverBackground": "#a00",
+		
+        	// Welcome
+        	"welcomePage.buttonBackground": "#aaa",
+        	"welcomePage.buttonHoverBackground": "#0aa"
 	},
 	"tokenColors": [
 		{
