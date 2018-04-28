@@ -55,6 +55,7 @@
 		"editorCursor.foreground": "#ffffff",
 		"editorWhitespace.foreground": "#ffffff26",
 		"editorLineNumber.foreground": "#aaaaaa",
+		"editorLineNumber.activeForeground": "#ffffff"
 		"editorHoverWidget.background": "#00aa00",
 		"editorHoverWidget.border": "#aaaaaa",
 		"editorGroupHeader.tabsBackground": "#00aaaa",
@@ -135,6 +136,10 @@
 		// Workbench: Notifications
 		"notification.foreground": "#ffffff",
 		"notification.background": "#aaaaaa",
+		"notifications.background": "#bababa",
+		"notifications.border": "#aaaaaa",
+		"notificationCenterHeader.background": "#aa00aa",
+		"notificationCenterHeader.foreground": "#ffffff",
 
 		// Workbench: Quick Open
 		"pickerGroup.foreground": "#aa00aa",
@@ -165,7 +170,11 @@
 		
         	// Welcome
         	"welcomePage.buttonBackground": "#aaa",
-        	"welcomePage.buttonHoverBackground": "#0aa"
+        	"welcomePage.buttonHoverBackground": "#0aa",
+		
+		// Other
+		"textLink.foreground": "#ffffff",
+        	"badge.background": "#aa0000",
 	},
 	"tokenColors": [
 		{
