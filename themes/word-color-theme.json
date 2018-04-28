@@ -174,7 +174,7 @@
 		
 		// Other
 		"textLink.foreground": "#ffffff",
-        	"badge.background": "#aa0000",
+        	"badge.background": "#aa0000"
 	},
 	"tokenColors": [
 		{
