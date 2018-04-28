@@ -55,7 +55,7 @@
 		"editorCursor.foreground": "#ffffff",
 		"editorWhitespace.foreground": "#ffffff26",
 		"editorLineNumber.foreground": "#aaaaaa",
-		"editorLineNumber.activeForeground": "#ffffff"
+		"editorLineNumber.activeForeground": "#ffffff",
 		"editorHoverWidget.background": "#00aa00",
 		"editorHoverWidget.border": "#aaaaaa",
 		"editorGroupHeader.tabsBackground": "#00aaaa",
