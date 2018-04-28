@@ -12,3 +12,7 @@ All notable changes to the "word-55" extension will be documented in this file.
 ## [1.2.0]
 - Implement colors added during the VS Code 1.13 update
 - Improves legibility
+
+## [1.3.0]
+- Implement colors for notifications
+- Some additional theme color updates
