@@ -16,3 +16,6 @@ All notable changes to the "word-55" extension will be documented in this file.
 ## [1.3.0]
 - Implement colors for notifications
 - Some additional theme color updates
+
+## [1.3.1]
+- Fix broken theme
