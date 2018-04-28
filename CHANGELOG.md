@@ -19,3 +19,6 @@ All notable changes to the "word-55" extension will be documented in this file.
 
 ## [1.3.1]
 - Fix broken theme
+
+## [1.3.2]
+- Fix syntax error causing theme to break
