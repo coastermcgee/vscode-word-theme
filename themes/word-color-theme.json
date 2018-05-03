@@ -59,6 +59,7 @@
 		"editorHoverWidget.background": "#00aa00",
 		"editorHoverWidget.border": "#aaaaaa",
 		"editorGroupHeader.tabsBackground": "#00aaaa",
+		"editorIndentGuide.activeBackground": "#bababa",
 
 		"editorSuggestWidget.background": "#aaaaaa",
 		"editorSuggestWidget.border": "#bababa",
