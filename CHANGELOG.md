@@ -22,3 +22,6 @@ All notable changes to the "word-55" extension will be documented in this file.
 
 ## [1.3.2]
 - Fix syntax error causing theme to break
+
+## [1.3.3]
+- Add color for active editor indent guide
