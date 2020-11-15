@@ -1,6 +1,6 @@
 # Word Theme for [Visual Studio Code](http://code.visualstudio.com)
-[![Installs](http://vsmarketplacebadge.apphb.com/installs/coastermcgee.word-theme.svg)](https://marketplace.visualstudio.com/items?itemName=coastermcgee.word-theme)
-[![Rating](http://vsmarketplacebadge.apphb.com/rating-short/coastermcgee.word-theme.svg)](https://marketplace.visualstudio.com/items?itemName=coastermcgee.word-theme)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/coastermcgee.word-theme.svg)](https://marketplace.visualstudio.com/items?itemName=coastermcgee.word-theme)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/coastermcgee.word-theme.svg)](https://marketplace.visualstudio.com/items?itemName=coastermcgee.word-theme)
 
 # vscode-word-theme
 A dark color theme for Visual Studio Code based on Microsoft Word 5.5 for DOS
