@@ -2,7 +2,7 @@
 	"type": "dark",
 	"colors": {
 		// Base
-		"foreground": "#000000",
+		"foreground": "#ffffff",
 		"focusBorder": "#bababa",
 		// "contrastActiveBorder": "",
 		"contrastBorder": "#bababa",
@@ -27,7 +27,7 @@
 
 		"button.foreground": "#000000",
 		"button.background": "#bababa",
-		"button.hoverBackground": "#bababa",
+		"button.hoverBackground": "#d4d4d4",
 
 		"list.focusBackground": "#00aaaa",
 		"list.activeSelectionBackground": "#00aaaa",
@@ -48,8 +48,8 @@
 		"editor.selectionBackground": "#aaaaaa",
 		"editor.selectionHighlightBackground": "#5e5e5e",
 		"editor.inactiveSelectionBackground": "#5e5e5e",
-        	"editor.findMatchBackground": "#aa00aa",
-        	"editor.findMatchHighlightBackground": "#720072",
+		"editor.findMatchBackground": "#aa00aa",
+		"editor.findMatchHighlightBackground": "#720072",
 		"editorWidget.background": "#aa0000",
 		"editor.lineHighlightBackground": "#ffffff44",
 		"editorCursor.foreground": "#ffffff",
@@ -58,6 +58,7 @@
 		"editorLineNumber.activeForeground": "#ffffff",
 		"editorHoverWidget.background": "#00aa00",
 		"editorHoverWidget.border": "#aaaaaa",
+		"editorHoverWidget.foreground": "#ffffff",
 		"editorGroupHeader.tabsBackground": "#00aaaa",
 		"editorIndentGuide.activeBackground": "#bababa",
 
@@ -95,7 +96,7 @@
 		"titleBar.inactiveForeground": "#000000",
 
 		// Workbench: Editors
-		"editorGroup.background": "#aaaaaa",
+		"editorGroup.emptyBackground": "#aaaaaa",
 		"editorGroupHeader.noTabsBackground": "#00aaaa",
 		"editorGroup.border": "#bababa",
 
@@ -108,19 +109,23 @@
 		// Workbench: Activity Bar
 		"activityBar.background": "#aaaaaa",
 		"activityBar.foreground": "#000000",
+		"activityBar.activeBorder":"#bababa",
+                "activityBar.activeBackground": "#bababa",
 		"activityBarBadge.background": "#aa0000",
 		"activityBarBadge.foreground": "#c1c1c1",
 
 		// Workbench: Panel
-		"panel.background": "#aa00aa",
+		"panel.background": "#9e009e",
 		"panelTitle.activeForeground": "#ffffff",
-		"panelTitle.inactiveForeground": "#000000",
+		"panelTitle.inactiveForeground": "#cccccc",
 		"panelTitle.activeBorder": "#ffffff",
 
 		// Workbench: Side Bar
 		"sideBar.background": "#aaaaaa",
+		"sideBar.foreground": "#000000",
 		"sideBarTitle.foreground": "#000000",
 		"sideBarSectionHeader.background": "#5555ff",
+		"sideBarSectionHeader.foreground": "#bababa",
 
 		// Workbench: Status Bar
 		"statusBar.foreground": "#000000",
@@ -135,8 +140,7 @@
 		"debugExceptionWidget.border": "#ab395b",
 
 		// Workbench: Notifications
-		"notification.foreground": "#ffffff",
-		"notification.background": "#aaaaaa",
+		"notifications.foreground": "#ffffff",
 		"notifications.background": "#bababa",
 		"notifications.border": "#aaaaaa",
 		"notificationCenterHeader.background": "#aa00aa",
@@ -164,24 +168,31 @@
 		"terminal.ansiBrightYellow": "#ffff55",
 		"terminal.ansiBrightRed": "#ff5555",
 		"terminal.background": "#000000",
-		
+
 		// Extensions
-        	"extensionButton.prominentBackground": "#696969",
-        	"extensionButton.prominentHoverBackground": "#a00",
-		
-        	// Welcome
-        	"welcomePage.buttonBackground": "#aaa",
-        	"welcomePage.buttonHoverBackground": "#0aa",
-		
+		"extensionButton.prominentBackground": "#696969",
+        "extensionButton.prominentHoverBackground": "#a00",
+
+        // Welcome
+        "welcomePage.buttonBackground": "#aaa",
+		"welcomePage.buttonHoverBackground": "#0aa",
+		"welcomePage.background":"#aaaaaa",
+
 		// Other
-		"textLink.foreground": "#ffffff",
-        	"badge.background": "#aa0000"
+		"textLink.foreground": "#696969",
+        "textLink.activeForeground": "#55ffff",
+		"badge.background": "#aa0000",
+		"settings.focusedRowBackground": "#0aa",
+		"settings.headerForeground": "#ffffff",
+		"list.warningForeground": "#a00",
+		"list.invalidItemForeground": "#ff5555",
+		"textBlockQuote.background": "#0000aa"
 	},
 	"tokenColors": [
 		{
 			"settings": {
 				"foreground": "#ffffffff",
-				"background": "#0000aaaa"
+				"background": "#0000aaaa",
 			}
 		},
 		{
