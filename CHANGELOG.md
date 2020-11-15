@@ -25,3 +25,7 @@ All notable changes to the "word-55" extension will be documented in this file.
 
 ## [1.3.3]
 - Add color for active editor indent guide
+
+## [1.3.4]
+- Implement some colors added during previous VS Code updates
+- Improves legibility
