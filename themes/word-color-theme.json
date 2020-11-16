@@ -7,7 +7,7 @@
 		// "contrastActiveBorder": "",
 		"contrastBorder": "#bababa",
 
-		"widget.shadow": "#aaaaaa",
+		"widget.shadow": "#ffffff00",
 
 		"input.background": "#bababa",
 		"input.foreground": "#000000",
@@ -16,6 +16,7 @@
 		"inputValidation.infoBackground": "#55ffff",
 		"inputValidation.infoBorder": "#00aaaa",
 		"inputValidation.warningBackground": "#ffff55",
+		"inputValidation.warningForeground": "#000000",
 		"inputValidation.warningBorder": "#bababa",
 		"inputValidation.errorBackground": "#aa0000",
 		"inputValidation.errorBorder": "#ff5555",
@@ -110,7 +111,7 @@
 		"activityBar.background": "#aaaaaa",
 		"activityBar.foreground": "#000000",
 		"activityBar.activeBorder":"#bababa",
-                "activityBar.activeBackground": "#bababa",
+        "activityBar.activeBackground": "#bababa",
 		"activityBarBadge.background": "#aa0000",
 		"activityBarBadge.foreground": "#c1c1c1",
 
