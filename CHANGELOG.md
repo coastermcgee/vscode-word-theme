@@ -29,3 +29,6 @@ All notable changes to the "word-55" extension will be documented in this file.
 ## [1.3.4]
 - Implement some colors added during previous VS Code updates
 - Improves legibility
+
+## [1.3.5]
+- Improves legibility
