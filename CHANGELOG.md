@@ -32,3 +32,6 @@ All notable changes to the "word-55" extension will be documented in this file.
 
 ## [1.3.5]
 - Improves legibility
+
+## [1.3.6]
+-Fix legibility issue in picker menu
