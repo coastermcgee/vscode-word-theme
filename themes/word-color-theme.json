@@ -148,7 +148,7 @@
 		"notificationCenterHeader.foreground": "#ffffff",
 
 		// Workbench: Quick Open
-		"pickerGroup.foreground": "#aa00aa",
+		"pickerGroup.foreground": "#cccccc",
 		"pickerGroup.border": "#bababa",
 
 		// Terminal
